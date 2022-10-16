@@ -14,13 +14,13 @@ This codebase is interacting with the Razorpay API. This projects explains how t
 
 ## Major steps are followed to create and setup this project:
 - Cloned/created a new rails project
-- Database configuration setup (using MySQL)
+- Database configuration setup (using *MySQL*)
 - Initialize a local repository using git
-- .gitignore file created to add configuration.yml
-- configuration.yml file created to initialize environment variables
+- *.gitignore* file created to add *configuration.yml*
+- *configuration.yml* file created to initialize environment variables
 - Created a new remote repository using GitHub
 - Implemented required APIs for order and process a payment
-- Changed README.md and documentation added
+- Changed *README.md* and documentation added
 - Code Commited and Pushed to GitHub repository
 
 ## Create configuration.yml to setup required environment variables
