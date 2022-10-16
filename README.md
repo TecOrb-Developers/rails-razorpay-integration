@@ -38,9 +38,9 @@ Payment Gateway
 - ` gem 'razorpay'` here is the [link](https://github.com/razorpay/razorpay-ruby)
 
 For authentication:
-- Bcrypt here is the gem documentation [link](https://github.com/bcrypt-ruby/bcrypt-ruby)
-- doorkeeper here is the gem documentation [link](https://github.com/doorkeeper-gem/doorkeeper)
-- doorkeeper-jwt here is the gem documentation [link](https://github.com/doorkeeper-gem/doorkeeper-jwt)
+- `gem 'bcrypt'` here is the [documentation](https://github.com/bcrypt-ruby/bcrypt-ruby)
+- `gem 'doorkeeper'` here is the [documentation](https://github.com/doorkeeper-gem/doorkeeper)
+- `gem 'doorkeeper-jwt'` here is the [documentation](https://github.com/doorkeeper-gem/doorkeeper-jwt)
 
 
 ## Implemented APIs Documentation
