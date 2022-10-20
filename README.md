@@ -134,8 +134,8 @@ User can signup by providing basic details
 
 ## Required dependencies to setup this project
 
-- ruby v3.1.0
-- rails v7.0.2
+- Ruby version 3.1.0
+- Rails version 7.0.2
 
 ## Required data from Razorpay
 We need to register our account on Razorpay as a business. We would need blow keys from our account:
